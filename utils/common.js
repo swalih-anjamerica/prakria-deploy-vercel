@@ -1,0 +1,113 @@
+
+export const images = {
+  packaging: [
+    '/assets/landing/packaging/1.png',
+    '/assets/landing/packaging/2.png',
+    '/assets/landing/packaging/3.png',
+    '/assets/landing/packaging/4.png',
+    '/assets/landing/packaging/5.png',
+    '/assets/landing/packaging/6.png',
+    '/assets/landing/packaging/7.png',
+    '/assets/landing/packaging/8.png',
+    '/assets/landing/packaging/9.png',
+    '/assets/landing/packaging/11.png',
+    // '/assets/landing/packaging/12.png',
+  ],
+  print: [
+    '/assets/landing/print/1.png',
+    '/assets/landing/print/2.png',
+    '/assets/landing/print/3.png',
+    '/assets/landing/print/4.png',
+    '/assets/landing/print/5.png',
+    '/assets/landing/print/6.png',
+    '/assets/landing/print/7.png',
+    '/assets/landing/print/8.png',
+    // '/assets/landing/print/9.png',
+  ],
+  dcg: [
+    '/assets/landing/dcg/caramel.png',
+    '/assets/landing/dcg/kitkat.png',
+    '/assets/landing/dcg/locker.png',
+    '/assets/landing/dcg/washbase.png',
+    // '/assets/landing/dcg/water.png',
+  ],
+  film: [
+    '/assets/landing/film/1.mp4',
+    '/assets/landing/film/2.mp4',
+    '/assets/landing/film/3.mp4',
+    '/assets/landing/film/4.mp4',
+  ],
+  immersive: [
+    '/assets/landing/immersive/1.png',
+    '/assets/landing/immersive/2.png',
+    '/assets/landing/immersive/3.png',
+    '/assets/landing/immersive/4.png',
+    // '/assets/landing/immersive/5.png',
+  ],
+  digital: [
+    '/assets/landing/digital/amazon.png',
+    '/assets/landing/digital/amazon2.png',
+    '/assets/landing/digital/dove.png',
+    '/assets/landing/digital/instagram.png',
+    '/assets/landing/digital/makeup.png',
+    '/assets/landing/digital/munch.png',
+    // '/assets/landing/digital/phone.png',
+  ]
+}
+
+
+export const servicePageImages = {
+  packaging: [
+    '/assets/landing/packaging/5.png',
+    '/assets/landing/packaging/1.png',
+    '/assets/landing/packaging/2.png',
+    '/assets/landing/packaging/3.png',
+    '/assets/landing/packaging/4.png',
+    '/assets/landing/packaging/6.png',
+    '/assets/landing/packaging/7.png',
+    '/assets/landing/packaging/8.png',
+    '/assets/landing/packaging/9.png',
+    '/assets/landing/packaging/11.png',
+    // '/assets/landing/packaging/12.png',
+  ],
+  print: [
+    '/assets/landing/print/1.png',
+    '/assets/landing/print/2.png',
+    '/assets/landing/print/3.png',
+    '/assets/landing/print/4.png',
+    '/assets/landing/print/5.png',
+    '/assets/landing/print/6.png',
+    '/assets/landing/print/7.png',
+    '/assets/landing/print/8.png',
+    // '/assets/landing/print/9.png',
+  ],
+  dcg: [
+    '/assets/landing/dcg/caramel.png',
+    '/assets/landing/dcg/kitkat.png',
+    '/assets/landing/dcg/locker.png',
+    '/assets/landing/dcg/washbase.png',
+    // '/assets/landing/dcg/water.png',
+  ],
+  film: [
+    '/assets/landing/film/1.mp4',
+    '/assets/landing/film/2.mp4',
+    '/assets/landing/film/3.mp4',
+    '/assets/landing/film/4.mp4',
+  ],
+  immersive: [
+    '/assets/landing/immersive/1.png',
+    '/assets/landing/immersive/2.png',
+    '/assets/landing/immersive/3.png',
+    '/assets/landing/immersive/4.png',
+    // '/assets/landing/immersive/5.png',
+  ],
+  digital: [
+    '/assets/landing/digital/amazon.png',
+    '/assets/landing/digital/amazon2.png',
+    '/assets/landing/digital/dove.png',
+    '/assets/landing/digital/instagram.png',
+    '/assets/landing/digital/makeup.png',
+    '/assets/landing/digital/munch.png',
+    // '/assets/landing/digital/phone.png',
+  ]
+}
